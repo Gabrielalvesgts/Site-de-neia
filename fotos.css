@@ -1,3 +1,14 @@
 html {
     background-color: rgb(216, 91, 91);
 }
+
+#coração{
+    color: rgb(247, 0, 247);
+}
+
+#preto{
+    background-color: black;
+}
+#pixel{
+    font-style: italic;
+}
